@@ -11,8 +11,7 @@
 - [Project Structure](#-project-structure)
 - [Business Impact](#-business-impact)
 - [Future Improvements](#-future-improvements)
-- [Author](#-Author)
-
+- [Author](#author)
 ---
 
 ## 📌 Project Overview
