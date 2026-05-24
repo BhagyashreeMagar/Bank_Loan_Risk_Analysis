@@ -77,10 +77,10 @@ The dataset includes:
 ## 📈 Dashboard Preview
 
 ### Portfolio Overview
-![Portfolio Overview](Loan Analysis page.png)
+![Portfolio Overview](loan_analysis_dashboard.png)
 
 ### Risk Analysis
-![Risk Analysis](Risk Analysis page.png)
+![Risk Analysis](risk_analysis_dashboard.png)
 
 ---
 
