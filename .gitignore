@@ -1,0 +1,24 @@
+# Power BI temp files
+*.pbix.autorecover
+*.tmp
+
+# Python cache (if using Python)
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Environment files
+.env
+
+# Large raw data files (optional)
+*.zip
+*.bak
